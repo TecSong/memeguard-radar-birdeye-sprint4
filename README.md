@@ -23,12 +23,14 @@ This draft keeps scope small and judgeable:
 3. compute a transparent safety/momentum score;
 4. output Markdown/JSON suitable for a dashboard, Telegram bot, or X build-in-public post.
 
-## Current autonomous status
+## Current status
 
 - ✅ Public rules reviewed from the Superteam listing.
-- ✅ Prototype logic and tests prepared locally.
-- ✅ No wallet, paid resource, cloud deployment, or platform submission performed.
-- ⛔ Blocked for real qualification by Birdeye API key/login and Superteam final submission. The listing says builders must create a free account at `bds.birdeye.so`, use an API key, make at least 50 API calls, post progress on X tagging `@birdeye_data` with `#BirdeyeAPI`, then submit via Superteam Earn.
+- ✅ Prototype logic, static dashboard, Markdown/JSON reports, and tests are in the repo.
+- ✅ Live evidence run completed with **52 Birdeye API calls**: 3 paginated `/defi/v2/tokens/new_listing` calls + 49 `/defi/token_overview` enrichment calls.
+- ✅ Build-in-public X post: https://x.com/Yiko55524775/status/2053308934988189904
+- ✅ Superteam submission recorded as pending review: `efe8a8bd-d516-44c2-919e-2731605132d1`.
+- ℹ️ No wallet, paid resource, cloud deployment, trading, or custodial action is used by this project.
 
 ## Quick start
 
@@ -48,11 +50,12 @@ python3 memeguard_radar.py --limit 25 --min-api-calls 50 --format json > report.
 python3 memeguard_radar.py --limit 25 --min-api-calls 50 --format html > dashboard.html
 ```
 
-## Submission assets to fill after real API run
+## Submission artifacts
 
 - Project name: MemeGuard Radar
-- GitHub link: pending repo/push authorization
-- X progress post/thread: pending public posting authorization
-- Endpoints used: `/defi/v2/tokens/new_listing`, `/defi/token_overview`; optional `/defi/token_security` if the API key has that permission
-- Evidence: include CLI output, report screenshot, and note that 50+ Birdeye calls were made
+- GitHub link: https://github.com/TecSong/memeguard-radar-birdeye-sprint4
+- X progress post/thread: https://x.com/Yiko55524775/status/2053308934988189904
+- Live evidence files: `live_report.md`, `live_report.json`, `live_dashboard.html`
+- Superteam submission id: `efe8a8bd-d516-44c2-919e-2731605132d1`
+- Status: pending review
 
