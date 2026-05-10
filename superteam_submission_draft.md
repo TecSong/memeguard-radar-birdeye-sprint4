@@ -11,7 +11,7 @@ Birdeye endpoints used:
 
 Permission note: the provided free key returned `401 insufficient permissions` for `/defi/token_security`, so the live evidence run uses `/defi/token_overview` enrichment. Security endpoint can be added if the key is upgraded/enabled.
 
-GitHub link: TODO after repo/push authorization
+GitHub link: https://github.com/TecSong/memeguard-radar-birdeye-sprint4
 X post link: TODO after public posting authorization
 Demo/report: TODO after real API-key run with 50+ calls. Local sample artifacts already exist: `sample_report.md`, `sample_report.json`, `sample_dashboard.html`.
 
