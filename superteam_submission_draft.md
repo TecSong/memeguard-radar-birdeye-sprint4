@@ -24,3 +24,10 @@ Public listing checks:
 
 Notes for submission paragraph:
 This project targets the Sprint 4 starter idea “New token radar with safety scoring.” It emphasizes Product Utility and Technical Depth through an auditable scoring model rather than a black-box signal.
+
+Submission status:
+- Submitted via Superteam Earn: yes
+- Submission id: `efe8a8bd-d516-44c2-919e-2731605132d1`
+- Status after submit: `Pending`
+- Verified via `/api/submission/check/?listingId=3049faed-1ba0-4c72-ac08-224bc5bad57c`: `isSubmitted=true`
+
