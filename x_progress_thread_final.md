@@ -26,3 +26,7 @@ https://github.com/TecSong/memeguard-radar-birdeye-sprint4
 Built with Birdeye Data for the Sprint 4 build-in-public requirement.
 
 #BirdeyeAPI @birdeye_data
+
+6/ Implementation note for judges: the live evidence run used 3 paginated new_listing calls + 49 token_overview enrichment calls = 52 Birdeye API calls. The repo includes live_report.json, live_report.md, and live_dashboard.html for verification.
+
+#BirdeyeAPI @birdeye_data
