@@ -1,0 +1,49 @@
+{
+  "evidence": {
+    "generated_at_utc": "2026-05-10T01:34:40+00:00",
+    "mode": "sample/no-api-key",
+    "listing_count": 3,
+    "birdeye_api_calls": 0,
+    "endpoints_used": [],
+    "qualification_note": "sample/unqualified until API key run"
+  },
+  "rows": [
+    {
+      "address": "FreshGood11111111111111111111111111111111111",
+      "symbol": "FRESH",
+      "name": "Fresh Candidate",
+      "liquidity": 120000.0,
+      "price_change_24h": 18.0,
+      "score": 88,
+      "risk_flags": [],
+      "action": "watch"
+    },
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "symbol": "SOL",
+      "name": "Wrapped SOL",
+      "liquidity": 25000000.0,
+      "price_change_24h": 2.4,
+      "score": 76,
+      "risk_flags": [],
+      "action": "watch"
+    },
+    {
+      "address": "RiskyMint111111111111111111111111111111111111",
+      "symbol": "RUG?",
+      "name": "Risky Mint",
+      "liquidity": 15000.0,
+      "price_change_24h": 180.0,
+      "score": 0,
+      "risk_flags": [
+        "thin-liquidity",
+        "possible-pump",
+        "mintable",
+        "freezable",
+        "top10-concentration>70%",
+        "owner-balance-high"
+      ],
+      "action": "avoid"
+    }
+  ]
+}

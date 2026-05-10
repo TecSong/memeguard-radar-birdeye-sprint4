@@ -1,0 +1,573 @@
+{
+  "evidence": {
+    "generated_at_utc": "2026-05-10T02:13:20+00:00",
+    "mode": "birdeye-live",
+    "listing_count": 49,
+    "birdeye_api_calls": 52,
+    "endpoints_used": [
+      "/defi/v2/tokens/new_listing",
+      "/defi/token_overview"
+    ],
+    "qualification_note": "meets 50+ API-call target"
+  },
+  "rows": [
+    {
+      "address": "GdrnZJt94p4HpkYWzgw6Kktwvxtb8YvHpNmDaPMDSfAc",
+      "symbol": "RocketFrog",
+      "name": "Rocket Frog",
+      "liquidity": 68933.89822778515,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "GdrnZJt94p4HpkYWzgw6Kktwvxtb8YvHpNmDaPMDSfAc",
+      "symbol": "RocketFrog",
+      "name": "Rocket Frog",
+      "liquidity": 68933.89822778515,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "GdrnZJt94p4HpkYWzgw6Kktwvxtb8YvHpNmDaPMDSfAc",
+      "symbol": "RocketFrog",
+      "name": "Rocket Frog",
+      "liquidity": 68933.89822778515,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "7dgPEKJinRKySoUHLZebJrjQvssyEFzRWUV5Bh6FVLaZ",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 66968.68290832391,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "7dgPEKJinRKySoUHLZebJrjQvssyEFzRWUV5Bh6FVLaZ",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 66968.68290832391,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "7dgPEKJinRKySoUHLZebJrjQvssyEFzRWUV5Bh6FVLaZ",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 66968.68290832391,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "HQSHbgCKqKkprKY3Eaq5WGdzZ6LsCWJqqw8qcNAyyazF",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 59295.88220032402,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "HQSHbgCKqKkprKY3Eaq5WGdzZ6LsCWJqqw8qcNAyyazF",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 59295.88220032402,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "AmcicJaSNf9Ty2UEpYeXgx51bGTxxNNaPNB7CaAgiqvP",
+      "symbol": "pyramid",
+      "name": "pyramid",
+      "liquidity": 47726.24916608772,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "AmcicJaSNf9Ty2UEpYeXgx51bGTxxNNaPNB7CaAgiqvP",
+      "symbol": "pyramid",
+      "name": "pyramid",
+      "liquidity": 47726.24916608772,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "Ciz6WagGbr64xZVM2Q7cXYVX2J8nZcqjxEhjXhhvpump",
+      "symbol": "FOMRT",
+      "name": "FORMULA RAIN TIRE",
+      "liquidity": 28214.221544385102,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "Ciz6WagGbr64xZVM2Q7cXYVX2J8nZcqjxEhjXhhvpump",
+      "symbol": "FOMRT",
+      "name": "FORMULA RAIN TIRE",
+      "liquidity": 28214.221544385102,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "DxQt5KEKCuWpwdGPgxqv6eNTU735c8BxRPN9b2jd2k3j",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 25567.99851949256,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "DxQt5KEKCuWpwdGPgxqv6eNTU735c8BxRPN9b2jd2k3j",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 25567.99851949256,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "DxQt5KEKCuWpwdGPgxqv6eNTU735c8BxRPN9b2jd2k3j",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 25567.99851949256,
+      "price_change_24h": 0.0,
+      "score": 58,
+      "risk_flags": [],
+      "action": "research"
+    },
+    {
+      "address": "7bwgLrLYgtMiLCh682RTSYfenKy6mXcFftr5pkHEgZnL",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 22480.53706542353,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "7bwgLrLYgtMiLCh682RTSYfenKy6mXcFftr5pkHEgZnL",
+      "symbol": "MILF",
+      "name": "Mother I'd Like to Fuck",
+      "liquidity": 22480.53706542353,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "3VbhGPiJxYqrvi2UqB2wCqfeeETztgxR9GfnrHdGyoWL",
+      "symbol": "AGI",
+      "name": "autistic goblin intelligence",
+      "liquidity": 16672.63801015115,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "3VbhGPiJxYqrvi2UqB2wCqfeeETztgxR9GfnrHdGyoWL",
+      "symbol": "AGI",
+      "name": "autistic goblin intelligence",
+      "liquidity": 16672.63801015115,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "6ciX27UrXnrkYNiPAEcMDaBfvNPK8xxzRZEcdNwK7KtE",
+      "symbol": "Bear",
+      "name": "Nietzschean Brown Bear",
+      "liquidity": 14088.346336445404,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "6ciX27UrXnrkYNiPAEcMDaBfvNPK8xxzRZEcdNwK7KtE",
+      "symbol": "Bear",
+      "name": "Nietzschean Brown Bear",
+      "liquidity": 14088.346336445404,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "2MefBF8ZpCkaWCzgL2wzvCA63iwpRDqx4TWrn45wmoon",
+      "symbol": "BEAST",
+      "name": "MrBeast",
+      "liquidity": 12483.826268008823,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "2MefBF8ZpCkaWCzgL2wzvCA63iwpRDqx4TWrn45wmoon",
+      "symbol": "BEAST",
+      "name": "MrBeast",
+      "liquidity": 12483.826268008823,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "2MefBF8ZpCkaWCzgL2wzvCA63iwpRDqx4TWrn45wmoon",
+      "symbol": "BEAST",
+      "name": "MrBeast",
+      "liquidity": 12483.826268008823,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "3gchBLe1u7vs1MStpKsBGn71okRvHdEhDBjpeQGrF9Wo",
+      "symbol": "America250",
+      "name": "America250",
+      "liquidity": 9771.938573846022,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "3gchBLe1u7vs1MStpKsBGn71okRvHdEhDBjpeQGrF9Wo",
+      "symbol": "America250",
+      "name": "America250",
+      "liquidity": 9771.938573846022,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "3gchBLe1u7vs1MStpKsBGn71okRvHdEhDBjpeQGrF9Wo",
+      "symbol": "America250",
+      "name": "America250",
+      "liquidity": 9771.938573846022,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "8tFx1WcdPdE4uf1xQ5JPL5icRYY64G9r1oi4y6ZVgbNp",
+      "symbol": "ROAF",
+      "name": "Russian Oil Asset Fund",
+      "liquidity": 9294.121733119917,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "8tFx1WcdPdE4uf1xQ5JPL5icRYY64G9r1oi4y6ZVgbNp",
+      "symbol": "ROAF",
+      "name": "Russian Oil Asset Fund",
+      "liquidity": 9294.121733119917,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "4aMKYo1riFBe1p1bQ5s7CD8hVotYJxE9p3f9dnCu2LnD",
+      "symbol": "RICH",
+      "name": "make me rich make no mistakes",
+      "liquidity": 5578.970446372903,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "4aMKYo1riFBe1p1bQ5s7CD8hVotYJxE9p3f9dnCu2LnD",
+      "symbol": "RICH",
+      "name": "make me rich make no mistakes",
+      "liquidity": 5578.970446372903,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "4aMKYo1riFBe1p1bQ5s7CD8hVotYJxE9p3f9dnCu2LnD",
+      "symbol": "RICH",
+      "name": "make me rich make no mistakes",
+      "liquidity": 5578.970446372903,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "2XjRsBR5Q9152rKGjqy1s5PQ616LZcEirF5shxmkLYFf",
+      "symbol": "YOMAMA",
+      "name": "Yo Mama",
+      "liquidity": 2264.8801182382313,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "2XjRsBR5Q9152rKGjqy1s5PQ616LZcEirF5shxmkLYFf",
+      "symbol": "YOMAMA",
+      "name": "Yo Mama",
+      "liquidity": 2264.8801182382313,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "DtE5vxvLszWCXs2DgMAzNLX9PLYspD1aqe9NRCrWvBMW",
+      "symbol": "Vortex",
+      "name": "VortexDeployer.com",
+      "liquidity": 1247.7647761617425,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "DtE5vxvLszWCXs2DgMAzNLX9PLYspD1aqe9NRCrWvBMW",
+      "symbol": "Vortex",
+      "name": "VortexDeployer.com",
+      "liquidity": 1247.7647761617425,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "DtE5vxvLszWCXs2DgMAzNLX9PLYspD1aqe9NRCrWvBMW",
+      "symbol": "Vortex",
+      "name": "VortexDeployer.com",
+      "liquidity": 1247.7647761617425,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "AYkUNnckbyHdTQkvTZXf8VhH51BuSSAia7nWaPowBAGS",
+      "symbol": "JR",
+      "name": "JR GAINS",
+      "liquidity": 18.591656009950352,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "AYkUNnckbyHdTQkvTZXf8VhH51BuSSAia7nWaPowBAGS",
+      "symbol": "JR",
+      "name": "JR GAINS",
+      "liquidity": 18.591656009950352,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "UxV3hcWeB32epaaFEuEDnYgbg1KdrRhkAK2AUsZeWTF",
+      "symbol": "PSI",
+      "name": "posssiiii",
+      "liquidity": 18.396443621845872,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "UxV3hcWeB32epaaFEuEDnYgbg1KdrRhkAK2AUsZeWTF",
+      "symbol": "PSI",
+      "name": "posssiiii",
+      "liquidity": 18.396443621845872,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "BJhP9GbDcCR39wWkiGdik23kUdXFXQZ7u6mrMW1Npump",
+      "symbol": "Dcln",
+      "name": "Disney Castle Night",
+      "liquidity": 0.032947328829642575,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "BJhP9GbDcCR39wWkiGdik23kUdXFXQZ7u6mrMW1Npump",
+      "symbol": "Dcln",
+      "name": "Disney Castle Night",
+      "liquidity": 0.032947328829642575,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "7qDQvpXer8hbfNm8ZyLrnSB6oFCcHzjJ3e4JspFYbrrr",
+      "symbol": "AUTISM",
+      "name": "Autism Awareness",
+      "liquidity": 0.0,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "7qDQvpXer8hbfNm8ZyLrnSB6oFCcHzjJ3e4JspFYbrrr",
+      "symbol": "AUTISM",
+      "name": "Autism Awareness",
+      "liquidity": 0.0,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "7qDQvpXer8hbfNm8ZyLrnSB6oFCcHzjJ3e4JspFYbrrr",
+      "symbol": "AUTISM",
+      "name": "Autism Awareness",
+      "liquidity": 0.0,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "AYZX3RnyQxafmxnMeZmrgD4DYzkZHtYmTnBo1p15EGLK",
+      "symbol": "maxxing",
+      "name": "maxxing",
+      "liquidity": 0.0,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "AYZX3RnyQxafmxnMeZmrgD4DYzkZHtYmTnBo1p15EGLK",
+      "symbol": "maxxing",
+      "name": "maxxing",
+      "liquidity": 0.0,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    },
+    {
+      "address": "AYZX3RnyQxafmxnMeZmrgD4DYzkZHtYmTnBo1p15EGLK",
+      "symbol": "maxxing",
+      "name": "maxxing",
+      "liquidity": 0.0,
+      "price_change_24h": 0.0,
+      "score": 35,
+      "risk_flags": [
+        "thin-liquidity"
+      ],
+      "action": "avoid"
+    }
+  ]
+}

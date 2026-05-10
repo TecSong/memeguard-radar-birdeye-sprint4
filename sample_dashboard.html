@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MemeGuard Radar — Birdeye Sprint 4</title>
+<style>
+body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;margin:0;background:#08111f;color:#eaf2ff}
+main{max-width:1040px;margin:0 auto;padding:44px 24px}
+.hero{background:linear-gradient(135deg,#111f3a,#082f2d);border:1px solid #28415f;border-radius:24px;padding:28px;margin-bottom:22px}
+h1{font-size:42px;margin:0 0 8px}p{color:#b9c7d9;line-height:1.55}
+.evidence{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:18px 0}
+.evidence div{background:#0f1b2d;border:1px solid #263a55;border-radius:16px;padding:14px}
+.evidence b{display:block;color:#7dd3fc;font-size:12px;text-transform:uppercase;letter-spacing:.08em}.evidence span{display:block;margin-top:6px}
+table{width:100%;border-collapse:collapse;background:#0f1b2d;border-radius:18px;overflow:hidden}th,td{padding:14px;border-bottom:1px solid #243852;text-align:left}th{color:#7dd3fc;font-size:12px;text-transform:uppercase;letter-spacing:.08em}small{display:block;color:#94a3b8;margin-top:3px}tr.watch td:first-child{border-left:4px solid #22c55e}tr.research td:first-child{border-left:4px solid #f59e0b}tr.avoid td:first-child{border-left:4px solid #ef4444}
+footer{color:#94a3b8;margin-top:18px;font-size:13px}
+@media(max-width:760px){.evidence{grid-template-columns:1fr}h1{font-size:32px}}
+</style></head><body><main>
+<section class="hero"><h1>MemeGuard Radar</h1><p>Birdeye-powered new-token radar: fresh Solana listings enriched with transparent security scoring, so traders and agents can separate watch, research, and avoid candidates.</p></section>
+
+        <section class="evidence">
+          <div><b>Generated</b><span>2026-05-10T01:34:40+00:00</span></div>
+          <div><b>Mode</b><span>sample/no-api-key</span></div>
+          <div><b>Birdeye API calls</b><span>0</span></div>
+          <div><b>Qualification</b><span>sample/unqualified until API key run</span></div>
+        </section>
+        
+<table><thead><tr><th>Token</th><th>Score</th><th>Action</th><th>Liquidity</th><th>24h</th><th>Flags</th></tr></thead><tbody><tr class='watch'><td><b>FRESH</b><small>Fresh Candidate</small></td><td>88</td><td>watch</td><td>$120,000</td><td>18.0%</td><td>none</td></tr><tr class='watch'><td><b>SOL</b><small>Wrapped SOL</small></td><td>76</td><td>watch</td><td>$25,000,000</td><td>2.4%</td><td>none</td></tr><tr class='avoid'><td><b>RUG?</b><small>Risky Mint</small></td><td>0</td><td>avoid</td><td>$15,000</td><td>180.0%</td><td>thin-liquidity, possible-pump, mintable, freezable, top10-concentration&gt;70%, owner-balance-high</td></tr></tbody></table>
+<footer>Endpoints planned/used: /v2/tokens/new_listing + /defi/token_security. No trading or wallet actions.</footer>
+</main></body></html>
